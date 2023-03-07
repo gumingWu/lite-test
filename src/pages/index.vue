@@ -41,6 +41,7 @@ const go = () => {
       >
         Go
       </button>
+      <n-button>Default</n-button>
     </div>
   </div>
 </template>
